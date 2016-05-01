@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: UiFun2
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 10917
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1282793272
+MIDlet-Jar-URL: UiFun2.jar
+RIM-COD-URL: UiFun2.cod
+RIM-COD-SHA1: 75 3c f6 78 e8 ad 1a d3 d6 ec 55 9b c8 71 91 59 5f d8 d0 35
+RIM-COD-Size: 5772
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: UiFun2
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
